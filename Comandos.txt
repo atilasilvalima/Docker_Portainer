@@ -1,5 +1,5 @@
 Documentação
-https://docs.portainer.io/v/ce-2.9/start/install/server/docker/wsl
+https://docs.portainer.io/v/ce-2.9/
 
 01. Criar pasta no diretório
 portainer_data
